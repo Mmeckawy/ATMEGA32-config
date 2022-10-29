@@ -77,4 +77,5 @@ void APP_start(void)
 		   LED_off(LED_port,LED_3);
 		   break;
 	}
+	DELAY();
 }
